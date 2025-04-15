@@ -1,0 +1,5 @@
+# project files
+.DS_Store
+.env
+/venv
+~$coffee_sales_analysis.xlsx
