@@ -136,7 +136,7 @@ Here are the key Excel functions, formulas, and techniques applied:
 - Dashboard Design & Visual Storytelling
 - Use of Interactive Elements: Slicers & Timelines
 
-## 👩🏽‍💻 Creator
+## 👩🏽‍💻 Contact
 Glory Odeyemi - Data Engineer & Analyst
 - For questions, feedback, opportunities, or collaborations, connect with me via [LinkedIn](https://www.linkedin.com/in/glory-odeyemi/).
 - For more exciting projects or inspiration, check out my [GitHub repositories](https://github.com/gloryodeyemi).
