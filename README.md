@@ -78,7 +78,7 @@ Here are the key Excel functions, formulas, and techniques applied:
 ---
 
 #### 2. 🇺🇸 Market Concentration in the U.S.
-**Insight:** The **United States** overwhelmingly dominates total sales, contributing the highest revenue.
+**Insight:** The **United States** dominates total sales, contributing the highest revenue.
 
 **Recommendation:**
 - Continue to invest in marketing and supply chain efficiency in the U.S. to maintain dominance.
