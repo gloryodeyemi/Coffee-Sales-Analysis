@@ -13,7 +13,7 @@ This project is an **interactive Excel dashboard** designed to analyze and visua
 
 ## 📌 Project Overview
 
-The goal of this project was to build a dynamic and interactive dashboard that provides stakeholders with quick insights into coffee sales performance. The dashboard allows users to filter by:
+The goal of this project is to build a dynamic and interactive dashboard that provides stakeholders with quick insights into coffee sales performance. The dashboard allows users to filter by:
 
 - **Roast Type**
 - **Product Size**
