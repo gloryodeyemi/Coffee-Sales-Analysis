@@ -107,11 +107,12 @@ Here are the key Excel functions, formulas, and techniques applied:
 #### 5. ☕ Roast Preferences by Region
 **Insight:** 
 - Overall, customers prefer **Light Roast**, followed by **Medium**, then **Dark**.
-- In contrast, **Ireland** shows a **strong preference for Dark Roast**.
+<!-- - In contrast, **Ireland** shows a **strong preference for Dark Roast**.-->
 
 **Recommendation:**
-- Tailor marketing by region: promote **Dark Roast** more heavily in Ireland.
-- Highlight **Light Roast** in U.S. campaigns and explore introducing new light variants.
+<!-- - Tailor marketing by region: promote **Dark Roast** more heavily in Ireland.
+- Highlight **Light Roast** in U.S. campaigns and explore introducing new light variants. --> 
+- Highlight **Light Roast** in campaigns and explore introducing new light variants.
 
 ---
 
