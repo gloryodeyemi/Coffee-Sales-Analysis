@@ -1,6 +1,6 @@
 # ☕ Coffee Sales Dashboard (Excel)
 
-This project is an **interactive Excel dashboard** designed to analyze and visualize coffee sales across multiple dimensions — customers, countries, product types, and time periods. It showcases my skills in **data cleaning**, **Excel formulas**, **pivot tables**, and **dashboard design**.
+This project is an **interactive Excel dashboard** designed to analyze and visualize coffee sales across multiple dimensions: customers, countries, product types, and time periods. It showcases my skills in **data cleaning**, **Excel formulas**, **pivot tables**, and **dashboard design**.
 
 ![Coffee Sales Dashboard](media/coffee-sales-dashboard.png)
 
